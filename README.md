@@ -6,30 +6,6 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 
 
 
-<p align="left">
-    <a href="rodrigo.computer.engineer019@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="E-mail" 
-            src= "mail.svg"
-        />
-    </a>
-    <a href="c:\Users\rodri\Downloads\mail.svg c:\Users\rodri\Downloads\linkedin.svg">
-        <img 
-            alt="linkedin" 
-            title="Linkedin" 
-            src="linkedin.svg"
-        />
-    </a> 
-    <a href="https://github.com/RodrigoLima30">
-        <img 
-            alt="GitHub" 
-            title="GitHub" 
-            src="github.svg"
-        />
-    </a> 
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
