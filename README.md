@@ -4,6 +4,8 @@
 
 Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Campos (SJC). Concluí o ensino médio no Colégio Embraer Juarez Wanderley, e lá comecei a pegar gosto pela área de exatas. Atualmente, estou cursando Engenharia de Computação na UNIFEI, campus Itabira. Sou uma pessoa dedicada e curiosa, com interesse em tecnologia, programação e soluções inovadoras. Tenho experiência em projetos acadêmicos e gosto de aprender novas habilidades que envolvam automação, desenvolvimento de software e inteligência artificial. Além disso, busco constantemente crescer tanto profissional quanto pessoalmente, aproveitando oportunidades e desafios que possam aprimorar minhas competências.
 
+
+
 ---
 
 ### 🚀 Tecnologias & Ferramentas
@@ -29,18 +31,17 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 
 <div align="center">
 
-<!-- Stats Cards -->
-<a href="https://github.com/RodrigoLima30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&langs_count=6" />
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&hide_border=true&count_private=true" alt="RodrigoLima30" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&langs_count=8&custom_title=Tecnologias+Mais+Usadas" />
+</p>
 
 </div>
+
 ---
 
 <div align="center">
 
-<!-- Snake Animation opcional - pode remover se quiser -->
 ![Snake animation](https://github.com/RodrigoLima30/RodrigoLima30/blob/output/github-contribution-grid-snake.svg)
 
 </div>
