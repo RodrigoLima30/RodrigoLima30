@@ -2,39 +2,41 @@
 
 **`Desenvolvedor Full-Stack`**
 
-Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Campos (SJC). Concluí o ensino médio no Colégio Embraer Juarez Wanderley, e lá comecei a pegar gosto pela área de exatas. Atualmente, estou cursando Engenharia de Computação na UNIFEI, campus Itabira. Sou uma pessoa dedicada e curiosa, com interesse em tecnologia, programação e soluções inovadoras. Tenho experiência em projetos acadêmicos e gosto de aprender novas habilidades que envolvam automação, desenvolvimento de software e inteligência artificial. Além disso, busco constantemente crescer tanto profissional quanto pessoalmente, aproveitando oportunidades e desafios que possam aprimorar minhas competências.
-
-
+Sou Rodrigo Augusto Lima, 24 anos, natural de São José dos Campos (SJC). Formado pelo Colégio Embraer Juarez Wanderley, onde desenvolvi minha paixão por exatas. Atualmente cursando Engenharia de Computação na UNIFEI, campus Itabira. Sou um profissional dedicado e curioso, com forte interesse em tecnologia, programação e soluções inovadoras. Tenho experiência em projetos acadêmicos e busco constantemente aprender novas habilidades em automação, desenvolvimento de software e inteligência artificial.
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
-#### Frontend
-<img align="left" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+#### **Frontend**
+<img align="left" alt="HTML5" title="HTML5" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" title="CSS3" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="React" title="React" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<br/>
 <br/>
 <br/>
 
-#### Backend
-<img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="AdonisJS" title="AdonisJS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
-<img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+#### **Backend**
+<img align="left" alt="Node.js" title="Node.js" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="AdonisJS" title="AdonisJS" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+<img align="left" alt="Python" title="Python" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br/>
+<br/>
+<br/>
 
-<br/>
-<br/>
-<br/>
+---
 
 ### 📊 GitHub Analytics
 
 <div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&hide_border=true&count_private=true" alt="RodrigoLima30" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&langs_count=8&custom_title=Tecnologias+Mais+Usadas" />
-</p>
+<a href="https://github.com/RodrigoLima30">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6" />
+</a>
+
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoLima30&theme=radical&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -43,5 +45,13 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 <div align="center">
 
 ![Snake animation](https://github.com/RodrigoLima30/RodrigoLima30/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **"Transformando ideias em código, um commit de cada vez."** ⭐
 
 </div>
