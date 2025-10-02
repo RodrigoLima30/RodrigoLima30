@@ -29,9 +29,8 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 
 <div align="center">
 
-<!-- Versão mais simples e confiável -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dark&hide_border=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=dark&layout=compact&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact" />
 
 </div>
 
