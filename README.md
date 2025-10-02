@@ -29,11 +29,13 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact" />
+<!-- Stats Cards -->
+<a href="https://github.com/RodrigoLima30">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&langs_count=6" />
+</a>
 
 </div>
-
 ---
 
 <div align="center">
