@@ -1,6 +1,6 @@
 # 🧑‍💻 Rodrigo Augusto 
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Full-Stack`**
 
 Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Campos (SJC). Concluí o ensino médio no Colégio Embraer Juarez Wanderley, e lá comecei a pegar gosto pela área de exatas. Atualmente, estou cursando Engenharia de Computação na UNIFEI, campus Itabira. Sou uma pessoa dedicada e curiosa, com interesse em tecnologia, programação e soluções inovadoras. Tenho experiência em projetos acadêmicos e gosto de aprender novas habilidades que envolvam automação, desenvolvimento de software e inteligência artificial. Além disso, busco constantemente crescer tanto profissional quanto pessoalmente, aproveitando oportunidades e desafios que possam aprimorar minhas competências.
 
@@ -10,7 +10,7 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 
 ### 🚀 Tecnologias & Ferramentas
 
-#### Frontend & Mobile
+#### Frontend
 <img align="left" alt="HTML5" title="HTML5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS3" title="CSS3" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -18,7 +18,7 @@ Me chamo Rodrigo Augusto Lima, tenho 24 anos e sou natural de São José dos Cam
 <br/>
 <br/>
 
-#### Backend & Database
+#### Backend
 <img align="left" alt="Node.js" title="Node.js" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="AdonisJS" title="AdonisJS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
 <img align="left" alt="Python" title="Python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
