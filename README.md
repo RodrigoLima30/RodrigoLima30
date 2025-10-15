@@ -44,14 +44,6 @@ Sou Rodrigo Augusto Lima, 24 anos, natural de São José dos Campos (SJC). Forma
 
 <div align="center">
 
-![Snake animation](https://github.com/RodrigoLima30/RodrigoLima30/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ⭐ **"Transformando ideias em código, um commit de cada vez."** ⭐
 
 </div>
