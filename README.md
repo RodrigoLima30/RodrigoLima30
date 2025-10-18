@@ -1,8 +1,13 @@
-# 🧑‍💻 Rodrigo Augusto 
+# 🧑‍💻 Rodrigo Augusto  
 
-**`Desenvolvedor Full-Stack`**
+**`Dev Web em Evolução | Backend & APIs`**
 
-Sou Rodrigo Augusto Lima, 24 anos, natural de São José dos Campos (SJC). Formado pelo Colégio Embraer Juarez Wanderley, onde desenvolvi minha paixão por exatas. Atualmente cursando Engenharia de Computação na UNIFEI, campus Itabira. Sou um profissional dedicado e curioso, com forte interesse em tecnologia, programação e soluções inovadoras. Tenho experiência em projetos acadêmicos e busco constantemente aprender novas habilidades em automação, desenvolvimento de software e inteligência artificial.
+Sou estudante de Engenharia de Computação (UNIFEI) e apaixonado por transformar ideias em soluções reais. Atualmente desenvolvo projetos com **JavaScript, React e AdonisJS**, focado em consolidar minha base em desenvolvimento web e integração com APIs REST.  
+
+Não estou apenas aprendendo a programar — estou construindo meu caminho na tecnologia com curiosidade, disciplina e vontade de criar impacto com software.
+
+🔭 *No momento, estou aprimorando minhas skills em back-end e automações.*  
+
 
 ---
 
