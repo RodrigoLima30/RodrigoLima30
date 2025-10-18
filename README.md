@@ -63,18 +63,31 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 📫 Onde me encontrar
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.computer.engineer019@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-augusto-159310205)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoLima30)
-
+  <a href="mailto:rodrigo.computer.engineer019@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-augusto-159310205" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
   <b>⭐ "Transformando ideias em código, um commit de cada vez." ⭐</b>
+</div>
+
+---
+
+## 🎮 Snake Game
+
+<div align="center">
+
+![Snake Game](https://github.com/RodrigoLima30/RodrigoLima30/blob/output/github-contribution-grid-snake.svg)
+
+_Minhas contribições viraram um jogo! Passe o mouse para ver a cobrinha em ação._
+
 </div>
