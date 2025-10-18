@@ -1,35 +1,29 @@
-# 🧑‍💻 Rodrigo Augusto  
+<img src="https://i.imgur.com/0h0V7Ux.png" alt="Banner Rodrigo Augusto"/>
 
-**`Dev Web em Evolução | Backend & APIs`**
+# 👋 Olá, Dev! Bem-vindo ao meu GitHub
 
-Sou estudante de Engenharia de Computação (UNIFEI) e apaixonado por transformar ideias em soluções reais através da tecnologia. Atualmente estou desenvolvendo minha base em **desenvolvimento web e back-end**, utilizando **JavaScript, React e AdonisJS**, com foco na criação e integração de **APIs REST**.
-
-Não estou apenas buscando aprender — estou construindo meu caminho com curiosidade, disciplina e vontade de evoluir como desenvolvedor. Acredito que cada projeto é uma oportunidade de resolver problemas reais e entregar valor com software.
-
-🎯 *Objetivo:* crescer na área de desenvolvimento, contribuir em times de tecnologia e continuar aprendendo novas stacks com responsabilidade e propósito.
-
-
+Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)** e apaixonado por transformar ideias em soluções reais através do desenvolvimento web e back-end. Aqui compartilho minha evolução, projetos práticos e aprendizados na jornada para me tornar um desenvolvedor completo.
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🧠 Sobre mim
 
-#### **Frontend**
-<img align="left" alt="HTML5" title="HTML5" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" title="CSS3" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" title="React" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<br/>
-<br/>
-<br/>
+- 🎓 Estudante no último ano de Engenharia de Computação – UNIFEI  
+- 💻 Foco em **Desenvolvimento Web e APIs REST** com **JavaScript, React e AdonisJS**  
+- 🚀 Vivenciando o dia a dia de um estágio com metodologias ágeis e resolução de problemas reais  
+- 🧪 Acredito no poder do código para gerar impacto e na importância de aprender continuamente  
+- 🤖 *Não sou apenas mais um currículo — não sou um robô.* Quero construir tecnologia com propósito
 
-#### **Backend**
-<img align="left" alt="Node.js" title="Node.js" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="AdonisJS" title="AdonisJS" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
-<img align="left" alt="Python" title="Python" width="45px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<br/>
-<br/>
-<br/>
+---
+
+### 🔧 Tecnologias e Ferramentas
+
+| 💻 Front-end | ⚙️ Back-end | 🛠 Ferramentas |
+|-------------|------------|----------------|
+| HTML | AdonisJS | Git & GitHub |
+| CSS | Node.js | Jira |
+| JavaScript | Python | DBeaver / SQL |
+| React | API REST | VS Code |
 
 ---
 
@@ -48,8 +42,19 @@ Não estou apenas buscando aprender — estou construindo meu caminho com curios
 
 ---
 
+### 📫 Onde me encontrar
+
 <div align="center">
+  <a href="mailto:rodrigo.computer.engineer019@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigo-augusto-159310205" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
-⭐ **"Transformando ideias em código, um commit de cada vez."** ⭐
+---
 
+<div align="center">
+  <b>⭐ “Transformando ideias em código, um commit de cada vez.” ⭐</b>
 </div>
