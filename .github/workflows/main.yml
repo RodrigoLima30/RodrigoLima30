@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -7,23 +7,28 @@ on:
 
 jobs:
   build:
-    name: Generate Snake
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repository
+      - name: Checkout main
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Setup output branch
+        run: |
+          git fetch origin output || (git checkout --orphan output && git reset --hard && git commit --allow-empty -m "Init output" && git push origin output)
+          git checkout output
+
+      - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: RodrigoLima30
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: github-contribution-grid-snake.svg
 
-      - name: Push generated files to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Commit and push
+        run: |
+          git add github-contribution-grid-snake.svg
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update snake" || exit 0
+          git push origin output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
