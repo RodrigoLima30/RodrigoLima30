@@ -1,36 +1,33 @@
-name: Generate Snake Game
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "18"
-
-      - name: Generate snake.svg
-        uses: jaywcjlove/snake@main
-        with:
-          output: snake.svg
-
-      - name: Push snake.svg to output branch
+      - name: Generate Snake SVG
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          curl -s "https://github.com/users/RodrigoLima30/contributions" \
+          | grep -o '<svg.*svg>' \
+          | head -1 > github-contribution-grid-snake.svg
+
+      - name: Create Output Branch
+        run: |
           git checkout --orphan output
           git reset --hard
-          mv snake.svg github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git commit -m "Update snake animation"
           git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
