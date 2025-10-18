@@ -1,91 +1,94 @@
 # 👋 Olá, Dev! Bem-vindo ao meu GitHub
 
-Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)** e apaixonado por transformar ideias em soluções reais através do desenvolvimento web e back-end. Aqui compartilho minha evolução, projetos práticos e aprendizados na jornada para me tornar um desenvolvedor completo.
+Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)** e apaixonado por transformar ideias em soluções reais através do desenvolvimento web e back-end.
 
 ---
 
-## 🧠 Sobre mim
-
-- 🎓 Estudante no último ano de Engenharia de Computação – UNIFEI
-- 💻 Foco em **Desenvolvimento Web e APIs REST** com **JavaScript, React e AdonisJS**
-- 🚀 Vivenciando o dia a dia de um estágio com metodologias ágeis e resolução de problemas reais
-- 🧪 Acredito no poder do código para gerar impacto e na importância de aprender continuamente
-- 🤖 _Não sou apenas mais um currículo — não sou um robô._ Quero construir tecnologia com propósito
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/RodrigoLima30">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&hide_border=true)
+  ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&theme=dracula&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  
+  ![Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🛠️ Tech Stack
+
+### **💻 Tecnologias Principais**
 
 <div align="center">
-  <table>
-    <tr>
-      <th>🧰 Ferramentas</th>
-      <th>💻 Tecnologias Principais</th>
-      <th>🧩 Tecnologias Já Utilizadas</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-        <img loading="lazy" src="https://img.icons8.com/color/48/000000/api.png" width="40" height="40" title="Apidog"/>
-      </td>
-      <td align="center">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="CSS3"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="40" height="40" title="AdonisJS"/>
-      </td>
-      <td align="center">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  
+</div>
+
+### **📚 Frameworks & Bibliotecas**
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
+  
+</div>
+
+### **🛠️ Ferramentas**
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/TSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="TSQL"/>
+  
 </div>
 
 ---
 
-## 📫 Onde me encontrar
+## 📈 Estatísticas Detalhadas
 
 <div align="center">
-  <a href="mailto:rodrigo.computer.engineer019@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rodrigo-augusto-159310205" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+
+| **Métrica**                      | **Valor** |
+| -------------------------------- | --------- |
+| ⭐ **Total Stars**               | 0         |
+| 📝 **Total Commits**             | 55        |
+| 🔀 **Pull Requests**             | 2         |
+| 🐛 **Issues**                    | 1         |
+| 🤝 **Repositórios Contribuídos** | 1         |
+
+</div>
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.computer.engineer019@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-augusto-159310205)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RodrigoLima30)
+
 </div>
 
 ---
 
 <div align="center">
-  <b>⭐ "Transformando ideias em código, um commit de cada vez." ⭐</b>
-</div>
 
-## 🎮 Snake Game
+### **⭐ "Transformando ideias em código, um commit de cada vez." ⭐**
 
-<div align="center">
-
-![Snake Game](https://github.com/RodrigoLima30/RodrigoLima30/blob/output/github-contribution-grid-snake.svg)
-
-_Minhas contribições viraram um jogo! Passe o mouse para ver a cobrinha em ação._
+![Visitas](https://komarev.com/ghpvc/?username=RodrigoLima30&color=blueviolet&style=flat-square)
 
 </div>
