@@ -4,7 +4,7 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 ---
 
-### 🧠 Sobre mim
+## 🧠 Sobre mim
 
 - 🎓 Estudante no último ano de Engenharia de Computação – UNIFEI
 - 💻 Foco em **Desenvolvimento Web e APIs REST** com **JavaScript, React e AdonisJS**
@@ -14,17 +14,56 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center"> <a href="https://github.com/RodrigoLima30"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&langs_count=7&theme=dracula"/> </a> </div><div align="center"> ![GitHub Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)</div>
+<div align="center">
+  <a href="https://github.com/RodrigoLima30">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
+## 🔧 Tecnologias e Ferramentas
 
-## <div align="center"><table> <tr> <th>🧰 Ferramentas</th> <th>💻 Tecnologias Principais</th> <th>🧩 Tecnologias Já Utilizadas</th> </tr> <tr> <td align="center"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> <img loading="lazy" src="https://img.icons8.com/color/48/000000/api.png" width="40" height="40" title="Apidog"/> </td> <td align="center"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="CSS3"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="40" height="40" title="AdonisJS"/> </td> <td align="center"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/> </td> </tr> </table></div>
+<div align="center">
+  <table>
+    <tr>
+      <th>🧰 Ferramentas</th>
+      <th>💻 Tecnologias Principais</th>
+      <th>🧩 Tecnologias Já Utilizadas</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
+        <img loading="lazy" src="https://img.icons8.com/color/48/000000/api.png" width="40" height="40" title="Apidog"/>
+      </td>
+      <td align="center">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="CSS3"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="40" height="40" title="AdonisJS"/>
+      </td>
+      <td align="center">
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### 📫 Onde me encontrar
+---
+
+## 📫 Onde me encontrar
 
 <div align="center">
   <a href="mailto:rodrigo.computer.engineer019@gmail.com">
@@ -38,5 +77,15 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 ---
 
 <div align="center">
-  <b>⭐ “Transformando ideias em código, um commit de cada vez.” ⭐</b>
+  <b>⭐ "Transformando ideias em código, um commit de cada vez." ⭐</b>
+</div>
+
+## 🎮 Snake Game
+
+<div align="center">
+
+![Snake Game](https://github.com/RodrigoLima30/RodrigoLima30/blob/output/github-contribution-grid-snake.svg)
+
+_Minhas contribições viraram um jogo! Passe o mouse para ver a cobrinha em ação._
+
 </div>
