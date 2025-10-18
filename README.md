@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/0h0V7Ux.png" alt="Banner Rodrigo Augusto"/>
+
 
 # 👋 Olá, Dev! Bem-vindo ao meu GitHub
 
@@ -16,31 +16,16 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 ---
 
-### 🔧 Tecnologias e Ferramentas
-
-| 💻 Front-end | ⚙️ Back-end | 🛠 Ferramentas |
-|-------------|------------|----------------|
-| HTML | AdonisJS | Git & GitHub |
-| CSS | Node.js | Jira |
-| JavaScript | Python | DBeaver / SQL |
-| React | API REST | VS Code |
-
----
-
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-<a href="https://github.com/RodrigoLima30">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6" />
-</a>
-
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoLima30&theme=radical&hide_border=true&background=0D1117" />
-
+<div align="center"> <a href="https://github.com/RodrigoLima30"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&langs_count=7&theme=dracula"/> </a> </div><div align="center"> ![GitHub Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg) </div>
 </div>
 
 ---
+
+### 🔧 Tecnologias e Ferramentas
+
+<div align="center"><table> <tr> <th>🧰 Ferramentas</th> <th>💻 Tecnologias Principais</th> <th>🧩 Tecnologias Já Utilizadas</th> </tr> <tr> <td align="center"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" title="Jira"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40" title="DBeaver"/> </td> <td align="center"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="CSS3"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="40" height="40" title="AdonisJS"/> </td> <td align="center"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> </td> </tr> </table></div>
 
 ### 📫 Onde me encontrar
 
