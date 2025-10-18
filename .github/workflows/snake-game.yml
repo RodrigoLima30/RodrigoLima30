@@ -1,0 +1,34 @@
+name: Snake Game
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        run: |
+          # Download direto do gráfico de contribuições
+          wget -O github-contribution-grid-snake.svg "https://ghchart.rshah.org/rodrigolima30"
+
+      - name: Commit to output branch
+        run: |
+          git checkout --orphan output || git checkout output
+          git reset --hard
+          cp ../github-contribution-grid-snake.svg ./
+          git add github-contribution-grid-snake.svg
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -m "Update snake"
+          git push origin output --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

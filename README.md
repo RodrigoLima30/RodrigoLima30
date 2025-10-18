@@ -24,9 +24,8 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 </div>
 
 <div align="center">
-  ![GitHub Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
 ---
 
 ## 🔧 Tecnologias e Ferramentas
@@ -90,4 +89,8 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 _Minhas contribições viraram um jogo! Passe o mouse para ver a cobrinha em ação._
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" width="800" />
 </div>
