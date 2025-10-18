@@ -2,11 +2,12 @@
 
 **`Dev Web em Evolução | Backend & APIs`**
 
-Sou estudante de Engenharia de Computação (UNIFEI) e apaixonado por transformar ideias em soluções reais. Atualmente desenvolvo projetos com **JavaScript, React e AdonisJS**, focado em consolidar minha base em desenvolvimento web e integração com APIs REST.  
+Sou estudante de Engenharia de Computação (UNIFEI) e apaixonado por transformar ideias em soluções reais através da tecnologia. Atualmente estou desenvolvendo minha base em **desenvolvimento web e back-end**, utilizando **JavaScript, React e AdonisJS**, com foco na criação e integração de **APIs REST**.
 
-Não estou apenas aprendendo a programar — estou construindo meu caminho na tecnologia com curiosidade, disciplina e vontade de criar impacto com software.
+Não estou apenas buscando aprender — estou construindo meu caminho com curiosidade, disciplina e vontade de evoluir como desenvolvedor. Acredito que cada projeto é uma oportunidade de resolver problemas reais e entregar valor com software.
 
-🔭 *No momento, estou aprimorando minhas skills em back-end e automações.*  
+🎯 *Objetivo:* crescer na área de desenvolvimento, contribuir em times de tecnologia e continuar aprendendo novas stacks com responsabilidade e propósito.
+
 
 
 ---
