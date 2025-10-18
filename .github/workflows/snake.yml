@@ -14,20 +14,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
+      - name: Setup Git
         run: |
-          curl -s "https://github.com/users/RodrigoLima30/contributions" \
-          | grep -o '<svg.*svg>' \
-          | head -1 > github-contribution-grid-snake.svg
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
 
-      - name: Create Output Branch
+      - name: Create or checkout output branch
         run: |
-          git checkout --orphan output
+          git fetch origin output || true
+          git checkout output || git checkout --orphan output
           git reset --hard
+
+      - name: Download contributions SVG
+        run: |
+          wget -O github-contribution-grid-snake.svg "https://ghchart.rshah.org/RodrigoLima30"
+
+      - name: Commit and push
+        run: |
           git add github-contribution-grid-snake.svg
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git commit -m "Update snake animation"
+          git commit -m "Update snake animation" || exit 0
           git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
