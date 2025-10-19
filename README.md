@@ -1,5 +1,7 @@
 # 👋 Olá, Dev! Bem-vindo ao meu GitHub
 
+<img src="https://i.imgur.com/0h0V7Ux.png" alt="Banner Rodrigo Augusto • Full Stack Developer" />
+
 Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)** e apaixonado por transformar ideias em soluções reais através do desenvolvimento web e back-end. Aqui compartilho minha evolução, projetos práticos e aprendizados na jornada para me tornar um desenvolvedor completo.
 
 ---
@@ -21,6 +23,14 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/RodrigoLima30">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&theme=radical&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=6" />
+  </a>
+  <img height="165em" src="https://github.com/RodrigoLima30/github-readme-streak-stats/…/output/github-contribution-grid-snake.svg" />
 </div>
 ---
 
@@ -65,6 +75,17 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rodrigo-augusto-159310205" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+### 📫 Contato
+
+<div align="center">
+  <a href="mailto:rodrigo.computer.engineer019@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rodrigoaugustoeng/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
