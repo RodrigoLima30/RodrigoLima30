@@ -1,4 +1,4 @@
-# 👋 Olá, Dev! Bem-vindo ao meu GitHub
+# 🚀 Rodrigo Augusto Lima | Dev Full Stack em Evolução
 
 Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)** e apaixonado por transformar ideias em soluções reais através do desenvolvimento web e back-end. Aqui compartilho minha evolução, projetos práticos e aprendizados na jornada para me tornar um desenvolvedor completo.
 
@@ -10,7 +10,7 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 - 💻 Foco em **Desenvolvimento Web e APIs REST** com **JavaScript, React e AdonisJS**
 - 🚀 Vivenciando o dia a dia de um estágio com metodologias ágeis e resolução de problemas reais
 - 🧪 Acredito no poder do código para gerar impacto e na importância de aprender continuamente
-- 🤖 _Não sou apenas mais um currículo — não sou um robô._ Quero construir tecnologia com propósito
+- 🤖 _Não sou apenas mais um currículo — não sou um robô._ Busco construir tecnologia com propósito, aprendendo com cada desafio.
 
 ---
 
@@ -27,7 +27,7 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)
 
-## </div>
+</div>
 
 ## 🔧 Tecnologias e Ferramentas
 
