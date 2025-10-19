@@ -1,5 +1,8 @@
 name: Generate Snake Animation
 
+permissions:
+  contents: write # ← Libera permissão de push para o GitHub Actions
+
 on:
   schedule:
     - cron: "0 */12 * * *" # Executa a cada 12 horas
