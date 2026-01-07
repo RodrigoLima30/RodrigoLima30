@@ -16,23 +16,6 @@ Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)
 
 ## 📊 Estatísticas do GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula)
-
-
-<div align="center">
-  <a href="https://github.com/RodrigoLima30">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    />
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-</div>
-
-
 <div align="center">
 
 ![GitHub Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)
