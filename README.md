@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=520&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Full+Stack;JavaScript+%7C+React+%7C+Node.js;APIs+REST+%7C+SQL+%7C+Redis;IA+Aplicada+%7C+Automa%C3%A7%C3%A3o" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=520&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Full+Stack;JavaScript+%7C+React+%7C+Node.js;APIs+REST+%7C+SQL+%7C+Automa%C3%A7%C3%A3o" 
       alt="Typing SVG" 
     />
   </a>
@@ -13,8 +13,7 @@
   <i>Transformando problemas reais em soluções digitais bem construídas — do front-end ao back-end.</i>
 </div>
 
-
-
+---
 
 ## 🧠 Sobre mim
 
