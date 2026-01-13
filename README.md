@@ -1,16 +1,28 @@
-# 🚀 Rodrigo Augusto Lima | Dev Full Stack em Evolução
+# Olá, eu sou Rodrigo Augusto Lima 👋
 
-Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação (UNIFEI)** e apaixonado por transformar ideias em soluções reais através do desenvolvimento web e back-end. Aqui compartilho minha evolução, projetos práticos e aprendizados na jornada para me tornar um desenvolvedor completo.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=520&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Full+Stack;JavaScript+%7C+React+%7C+Node.js;APIs+REST+%7C+SQL+%7C+Redis;IA+Aplicada+%7C+Automa%C3%A7%C3%A3o" 
+      alt="Typing SVG" 
+    />
+  </a>
+</div>
+
+<div align="center">
+  <i>Transformando problemas reais em soluções digitais bem construídas — do front-end ao back-end.</i>
+</div>
+
 
 ---
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante no último ano de Engenharia de Computação – UNIFEI
-- 💻 Foco em **Desenvolvimento Web e APIs REST** com **JavaScript, React e AdonisJS**
-- 🚀 Vivenciando o dia a dia de um estágio com metodologias ágeis e resolução de problemas reais
-- 🧪 Acredito no poder do código para gerar impacto e na importância de aprender continuamente
-- 🤖 _Não sou apenas mais um currículo — não sou um robô._ Busco construir tecnologia com propósito, aprendendo com cada desafio.
+- 🎓 Estudante no último ano de **Engenharia de Computação – UNIFEI**;
+- 💻 Atuação em **Desenvolvimento Web Full Stack**, com foco em **APIs REST**, usando **JavaScript/TypeScript**, **React**, **Node.js** e **AdonisJS**;
+- ⚙️ Experiência prática em projetos reais, trabalhando com CRUD, bancos SQL, Git/GitHub e metodologias ágeis (Scrum);
+- 🧪 Acredito no poder do código para gerar impacto e na importância de aprender continuamente;
+- 🤖 _Não sou apenas mais um currículo — não sou um robô._ **Busco construir tecnologia com propósito, aprendendo com cada desafio.**
 
 ---
 
