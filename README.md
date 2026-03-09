@@ -1,88 +1,221 @@
-# Olá! Eu sou Rodrigo Augusto Lima 👋
+<!-- BANNER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Rodrigo%20Augusto%20Lima&fontColor=ffffff&fontAlign=50&fontAlignY=40&fontSize=52&animation=fadeIn&color=0:2563EB,50:1D4ED8,100:1E3A8A"
+  />
+</p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2563EB&width=540&lines=Engenharia+de+Computa%C3%A7%C3%A3o+%7C+Desenvolvimento+Full+Stack;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;APIs+REST+%7C+SQL+%7C+Arquitetura+de+Software"
-      alt="Typing SVG"
-    />
-  </a>
-</div>
+<!-- FRASE ANIMADA -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Construindo+aplica%C3%A7%C3%B5es+web+e+mobile+escal%C3%A1veis;Arquitetura+de+Software+%7C+APIs+REST+%7C+SQL"
+  />
+</p>
 
-<div align="center">
-  <i>Construindo soluções web com foco em qualidade técnica, organização e impacto real.</i>
-</div>
-
----
-
-## 👨‍💻 Resumo profissional
-
-Sou estudante do último ano de **Engenharia de Computação (UNIFEI)**, com atuação em **desenvolvimento web full stack**.
-
-Tenho experiência prática em projetos com **JavaScript/TypeScript**, **React**, **Node.js** e **AdonisJS**, criando aplicações com arquitetura clara, APIs REST, integração com banco de dados SQL e versionamento com Git/GitHub.
-
-Atualmente, busco oportunidades para evoluir como desenvolvedor e contribuir com times que valorizam boas práticas, aprendizado contínuo e entrega de valor.
-
----
-
-## �️ Stack e ferramentas
-
-<div align="center">
-  <table>
-    <tr>
-      <th>💻 Tecnologias principais</th>
-      <th>🧰 Ferramentas de trabalho</th>
-      <th>📚 Tecnologias complementares</th>
-    </tr>
-    <tr>
-      <td align="center">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" title="CSS3"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" title="JavaScript"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" title="React"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" width="40" height="40" title="AdonisJS"/>
-      </td>
-      <td align="center">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" title="Git"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" title="GitHub"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/>
-        <img loading="lazy" src="https://img.icons8.com/color/48/000000/api.png" width="40" height="40" title="Apidog"/>
-      </td>
-      <td align="center">
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## � Atividade no GitHub
-
-<div align="center">
-
-![GitHub Snake Animation](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
+<!-- BOTÕES -->
+<p align="center">
   <a href="mailto:rodrigo.computer.engineer019@gmail.com">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rodrigo-augusto-159310205" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/rodrigo-augusto-159310205">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://github.com/RodrigoLima30">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<!-- CONTADORES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RodrigoLima30&label=Visualiza%C3%A7%C3%B5es&color=2563EB"/>
+  <img src="https://img.shields.io/github/followers/RodrigoLima30?label=Seguidores&color=2563EB"/>
+</p>
+
+---
+
+# 👨‍💻 Sobre mim
+
+Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação na UNIFEI** e **Desenvolvedor Full Stack**.
+
+Atuo no desenvolvimento de **aplicações SaaS web e mobile**, trabalhando com **React no front-end**, **Node.js / AdonisJS no back-end** e **React Native** para aplicações mobile.
+
+Tenho experiência prática com:
+
+- construção de **APIs REST**
+- arquitetura de aplicações **multi-tenant**
+- integração com **bancos de dados relacionais**
+- otimização de performance com **Redis**
+
+Busco sempre escrever código **limpo, escalável e bem estruturado**, aplicando princípios de **Arquitetura de Software, Design Patterns e boas práticas de engenharia**.
+
+---
+
+# 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th width="33%">💻 Linguagens</th>
+<th width="33%">⚙️ Back-end</th>
+<th width="33%">🎨 Front-end</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="45"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/react-native.png" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th width="33%">🗄️ Banco de Dados</th>
+<th width="33%">🧰 Ferramentas</th>
+<th width="33%">📚 Estudando</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+
+</td>
+
+<td align="center">
+
+Arquitetura de Software  
+Design Patterns  
+Escalabilidade de sistemas
+
+</td>
+</tr>
+</tbody>
+</table>
+
 </div>
 
 ---
 
+# 🚀 Projetos em destaque
+
+<table>
+
+<tr>
+<td align="center">
+<b>📱 Aplicação Mobile</b>
+<br>
+React Native + TypeScript
+<br><br>
+App mobile com CRUD completo e persistência local com SQLite.
+</td>
+
+<td align="center">
+<b>🤖 Automação de Processos</b>
+<br>
+Python
+<br><br>
+Scripts para automação de tarefas repetitivas e tratamento de dados.
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<b>🧠 Diagnóstico de Câncer de Mama</b>
+<br>
+Python + TensorFlow
+<br><br>
+Modelo de Deep Learning para classificação de mamografias.
+</td>
+
+<td align="center">
+<b>🌐 Aplicações SaaS</b>
+<br>
+React + Node + AdonisJS
+<br><br>
+Desenvolvimento de sistemas multi-tenant com APIs REST.
+</td>
+</tr>
+
+</table>
+
+---
+
+# 📊 Estatísticas do GitHub
+
 <div align="center">
-  <b>"Transformando ideias em software de forma consistente, um commit por vez."</b>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&theme=tokyonight"/>
+
 </div>
+
+---
+
+# 🐍 Contribuições
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 📫 Contato
+
+<p align="center">
+
+<a href="mailto:rodrigo.computer.engineer019@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rodrigo-augusto-159310205">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+</p>
+
+<p align="center">
+<b>Aberto a oportunidades e networking na área de desenvolvimento.</b>
+</p>
