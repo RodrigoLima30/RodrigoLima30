@@ -179,27 +179,27 @@ Desenvolvimento e manutenção de sistemas SaaS multi-tenant.
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 🚀 Minhas estatísticas no GitHub
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=tokyonight&hide_border=false&custom_title=Estatísticas+do+GitHub" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&theme=tokyonight&hide_border=false&custom_title=Linguagens+Mais+Usadas" />
+</div>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RodrigoLima30&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLima30&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RodrigoLima30&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&custom_title=Gráfico+de+Atividades" />
 </div>
 
 ---
 
-# 🐍 Contribuições
+### 🐍 Minhas contribuições
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
+
 
 # 📫 Contato
 
