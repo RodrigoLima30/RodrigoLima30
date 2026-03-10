@@ -195,7 +195,7 @@ Desenvolvimento e manutenção de sistemas SaaS multi-tenant.
 ### 🐍 Minhas contribuições
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
