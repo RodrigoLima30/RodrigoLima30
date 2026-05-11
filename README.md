@@ -8,7 +8,7 @@
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Desenvolvedor+Full+Stack;React+%7C+React+Native+%7C+Node.js+%7C+TypeScript;Construindo+aplica%C3%A7%C3%B5es+SaaS+escal%C3%A1veis;APIs+REST+%7C+Arquitetura+de+Software+%7C+SQL;Transformando+ideias+em+software+de+impacto"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Node.js+%7C+React+%7C+React+Native+%7C+TypeScript;SaaS+Multi-Tenant+%7C+APIs+REST+%7C+PostgreSQL;Integra%C3%A7%C3%B5es+%7C+Webhooks+%7C+Docker;Arquitetura+de+Software+%7C+Clean+Architecture"
   />
 </p>
 
@@ -37,11 +37,13 @@
 
 # 👨‍💻 Sobre mim
 
-Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação na UNIFEI** e **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento e evolução de aplicações **SaaS web e mobile**. Atualmente atuo construindo sistemas com **React no front-end**, **Node.js/AdonisJS no back-end** e **React Native** para aplicações mobile utilizando **TypeScript**.
+Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação na UNIFEI** e desenvolvedor full stack com experiência prática na construção e evolução de aplicações **SaaS web e mobile** utilizadas em produção.
 
-Tenho experiência no desenvolvimento de **APIs REST**, modelagem e manipulação de **bancos de dados relacionais**, integração entre sistemas e evolução contínua de funcionalidades em ambientes de produção. Também atuo com **refatoração de código, correção de bugs e melhoria da arquitetura das aplicações**, sempre buscando código limpo, organizado e escalável.
+Atualmente atuo no desenvolvimento de sistemas utilizando **Node.js (AdonisJS/Express)** no back-end, **React** no front-end e **React Native** no mobile, trabalhando com APIs REST, integrações via webhooks, processamento assíncrono com Redis/BullMQ e bancos de dados relacionais como PostgreSQL.
 
-Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, Design Patterns e engenharia de sistemas escaláveis**, buscando sempre construir soluções tecnicamente sólidas e com impacto real.
+Tenho experiência com integrações envolvendo **WhatsApp (Meta)**, gateways de pagamento, automações internas e monitoramento de aplicações com Sentry, participando também de code reviews, refatorações e evolução contínua de sistemas multi-tenant.
+
+Meu foco atual está no aprofundamento em **Arquitetura de Software, Clean Architecture, DDD e Design Patterns**, buscando desenvolver aplicações cada vez mais organizadas, escaláveis e orientadas a boas práticas de engenharia de software.
 
 ---
 
@@ -54,7 +56,7 @@ Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, D
 <tr>
 <th width="33%">💻 Linguagens</th>
 <th width="33%">⚙️ Back-end</th>
-<th width="33%">🎨 Front-end</th>
+<th width="33%">🎨 Front-end & Mobile</th>
 </tr>
 </thead>
 
@@ -67,12 +69,29 @@ Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, D
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
 
+<br><br>
+
+<b>JavaScript • TypeScript</b>
+
+<br>
+
+Python • C++
+
 </td>
 
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="45" title="AdonisJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>
+
+<br><br>
+
+<b>Node.js • AdonisJS • Express.js</b>
+
+<br>
+
+APIs REST • Webhooks • BullMQ
 
 </td>
 
@@ -83,6 +102,14 @@ Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, D
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 
+<br><br>
+
+<b>React • React Native</b>
+
+<br>
+
+HTML5 • CSS3
+
 </td>
 </tr>
 </tbody>
@@ -91,9 +118,9 @@ Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, D
 <table>
 <thead>
 <tr>
-<th width="33%">🗄️ Banco de Dados</th>
-<th width="33%">🧰 Ferramentas</th>
-<th width="33%">📚 Estudando</th>
+<th width="33%">🗄️ Banco de Dados & Cache</th>
+<th width="33%">🧰 Ferramentas & DevOps</th>
+<th width="33%">📚 Arquitetura & Estudos</th>
 </tr>
 </thead>
 
@@ -103,6 +130,11 @@ Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, D
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis"/>
+
+<br><br>
+
+<b>PostgreSQL • MongoDB • Redis</b>
 
 </td>
 
@@ -111,16 +143,34 @@ Meu foco atual está em aprofundar conhecimentos em **Arquitetura de Software, D
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
+
+<br><br>
+
+<b>Docker • Git • Linux</b>
+
+<br>
+
+Postman • Sentry • Jira
 
 </td>
 
 <td align="center">
 
-Arquitetura de Software  
-Design Patterns  
-Escalabilidade de Sistemas
+Clean Architecture
+
+<br><br>
+
+DDD
+
+<br><br>
+
+Design Patterns
+
+<br><br>
+
+Escalabilidade de APIs
 
 </td>
 </tr>
@@ -131,46 +181,70 @@ Escalabilidade de Sistemas
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Estudos & Projetos Técnicos
 
 <table>
 
 <tr>
 
-<td align="center">
-<b>📱 Aplicação Mobile</b>
+<td align="center" width="50%">
+
+<b>📱 AKingPoker Mobile</b>
+
 <br>
-React Native + TypeScript
+
+React Native • TypeScript • SQLite
+
 <br><br>
-Aplicativo mobile com CRUD completo e persistência local utilizando SQLite.
+
+Aplicação mobile desenvolvida para gerenciamento de partidas de poker, utilizando persistência local, arquitetura baseada em componentes e integração com APIs REST.
+
 </td>
 
-<td align="center">
-<b>🤖 Automação de Processos</b>
+<td align="center" width="50%">
+
+<b>🤖 Python Automation</b>
+
 <br>
-Python
+
+Python • PyAutoGUI • Pandas
+
 <br><br>
-Scripts para automação de tarefas repetitivas e processamento de dados.
+
+Automação de login e cadastro de produtos em sistema empresarial, realizando processamento de dados via CSV e automação de tarefas repetitivas.
+
 </td>
 
 </tr>
 
 <tr>
 
-<td align="center">
-<b>🧠 Deep Learning – Diagnóstico de Câncer de Mama</b>
+<td align="center" width="50%">
+
+<b>🧠 TCC IA — Diagnóstico de Câncer de Mama</b>
+
 <br>
-Python + TensorFlow
+
+Python • TensorFlow • CNN
+
 <br><br>
-Modelo de CNN para classificação de mamografias desenvolvido no TCC.
+
+Projeto de inteligência artificial utilizando redes neurais convolucionais para classificação de mamografias e apoio ao diagnóstico de câncer de mama.
+
 </td>
 
-<td align="center">
-<b>🌐 Aplicações SaaS</b>
+<td align="center" width="50%">
+
+<b>🏗️ Estudos de Arquitetura</b>
+
 <br>
-React + Node + AdonisJS
+
+TypeScript • DDD • Clean Architecture
+
 <br><br>
-Desenvolvimento e manutenção de sistemas SaaS multi-tenant.
+
+Repositórios focados em estudos práticos de DDD, Design Patterns, SOLID, Use Cases e arquitetura de software aplicada em APIs Node.js.
+
 </td>
 
 </tr>
