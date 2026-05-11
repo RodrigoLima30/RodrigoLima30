@@ -62,20 +62,13 @@ Meu foco atual está no aprofundamento em **Arquitetura de Software, Clean Archi
 
 <tbody>
 <tr>
+
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
-
-<br><br>
-
-<b>JavaScript • TypeScript</b>
-
-<br>
-
-Python • C++
 
 </td>
 
@@ -84,14 +77,6 @@ Python • C++
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="45" title="AdonisJS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express.js"/>
-
-<br><br>
-
-<b>Node.js • AdonisJS • Express.js</b>
-
-<br>
-
-APIs REST • Webhooks • BullMQ
 
 </td>
 
@@ -102,15 +87,8 @@ APIs REST • Webhooks • BullMQ
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 
-<br><br>
-
-<b>React • React Native</b>
-
-<br>
-
-HTML5 • CSS3
-
 </td>
+
 </tr>
 </tbody>
 </table>
@@ -126,15 +104,12 @@ HTML5 • CSS3
 
 <tbody>
 <tr>
+
 <td align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" title="Redis"/>
-
-<br><br>
-
-<b>PostgreSQL • MongoDB • Redis</b>
 
 </td>
 
@@ -146,33 +121,16 @@ HTML5 • CSS3
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" title="Postman"/>
 
-<br><br>
-
-<b>Docker • Git • Linux</b>
-
-<br>
-
-Postman • Sentry • Jira
-
 </td>
 
 <td align="center">
 
-Clean Architecture
-
-<br><br>
-
-DDD
-
-<br><br>
-
-Design Patterns
-
-<br><br>
-
-Escalabilidade de APIs
+<sub>
+Clean Architecture • DDD • Design Patterns • APIs REST
+</sub>
 
 </td>
+
 </tr>
 </tbody>
 </table>
@@ -189,15 +147,13 @@ Escalabilidade de APIs
 
 <td align="center" width="50%">
 
-<b>📱 AKingPoker Mobile</b>
+<b>🏋️ App Academia Mobile</b>
 
-<br>
-
-React Native • TypeScript • SQLite
+<sub>React Native • TypeScript • SQLite</sub>
 
 <br><br>
 
-Aplicação mobile desenvolvida para gerenciamento de partidas de poker, utilizando persistência local, arquitetura baseada em componentes e integração com APIs REST.
+Aplicação mobile desenvolvida para gerenciamento de treinos e acompanhamento de exercícios, utilizando persistência local com SQLite, arquitetura baseada em componentes e integração com APIs REST.
 
 </td>
 
@@ -205,9 +161,7 @@ Aplicação mobile desenvolvida para gerenciamento de partidas de poker, utiliza
 
 <b>🤖 Python Automation</b>
 
-<br>
-
-Python • PyAutoGUI • Pandas
+<sub>Python • PyAutoGUI • Pandas</sub>
 
 <br><br>
 
@@ -223,9 +177,7 @@ Automação de login e cadastro de produtos em sistema empresarial, realizando p
 
 <b>🧠 TCC IA — Diagnóstico de Câncer de Mama</b>
 
-<br>
-
-Python • TensorFlow • CNN
+<sub>Python • TensorFlow • CNN</sub>
 
 <br><br>
 
@@ -237,9 +189,7 @@ Projeto de inteligência artificial utilizando redes neurais convolucionais para
 
 <b>🏗️ Estudos de Arquitetura</b>
 
-<br>
-
-TypeScript • DDD • Clean Architecture
+<sub>TypeScript • DDD • Clean Architecture</sub>
 
 <br><br>
 
