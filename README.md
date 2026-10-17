@@ -8,7 +8,7 @@
 <!-- FRASE ANIMADA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Backend+Developer+%7C+Golang+%7C+Node.js;Microservi%C3%A7os+%7C+gRPC+%7C+Keycloak+%7C+OAuth2%2FOIDC;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript;SaaS+Multi-Tenant+%7C+PostgreSQL+%7C+Redis+%7C+Docker+%7C+AWS;Clean+Architecture+%7C+DDD+%7C+Arquitetura+Hexagonal"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Golang+%7C+Node.js+%7C+TypeScript+%7C+gRPC;Microservi%C3%A7os+%7C+gRPC+%7C+Keycloak+%7C+OAuth2%2FOIDC;React+%7C+Next.js+%7C+React+Native+%7C+TypeScript;SaaS+Multi-Tenant+%7C+PostgreSQL+%7C+Redis+%7C+Docker+%7C+AWS;Clean+Architecture+%7C+DDD+%7C+Arquitetura+Hexagonal"
   />
 </p>
 
@@ -38,11 +38,11 @@
 
 # 👨‍💻 Sobre mim
 
-Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação na UNIFEI** (2019 – 2026) e desenvolvedor com experiência em **backend, full stack e aplicações SaaS multi-tenant** em produção.
+Sou **Rodrigo Augusto Lima**, estudante de **Engenharia de Computação na UNIFEI** (2019 – 2026) e **desenvolvedor Full Stack** com experiência em **aplicações SaaS multi-tenant** em produção.
 
-Atualmente sou **Desenvolvedor Backend no motor MVNO da IEZ Telecom**, onde trabalho com **Golang** em arquitetura de **Microsserviços e Sistemas Distribuídos**, aplicando **Clean Architecture, Arquitetura Hexagonal (Ports & Adapters), DDD e SOLID**. Desenvolvo APIs **REST e gRPC (Protobuf)**, webhooks e integrações entre serviços com **Envoy, gRPC Transcoding e Keycloak**, além de integrações corporativas com **SERPRO, TOTVS Protheus e ABR Telecom** (incluindo portabilidade), sempre com foco em escalabilidade, resiliência, observabilidade e entrega contínua.
+Minha maior experiência foi na **Corelab**, como **Desenvolvedor Full Stack** em sistemas financeiros, CRMs, plataformas de pagamento e apps mobile, com **Node.js (AdonisJS)**, **React**, **React Native**, **PostgreSQL/MongoDB** e processamento assíncrono com **Redis/Bull**.
 
-Antes, na **Corelab**, atuei como Full Stack em sistemas financeiros, CRMs, plataformas de pagamento e apps mobile, com **Node.js (AdonisJS)**, **React**, **React Native**, **PostgreSQL/MongoDB** e processamento assíncrono com **Redis/Bull**.
+Hoje atuo como **Desenvolvedor Backend na IEZ Telecom**, com **Golang** em **Microsserviços e Sistemas Distribuídos**, **gRPC (Protobuf)**, **Keycloak/OIDC**, **Clean Architecture, Arquitetura Hexagonal, DDD e SOLID**, e integrações corporativas com **SERPRO, TOTVS Protheus e ABR Telecom**, sempre com foco em escalabilidade, resiliência e observabilidade.
 
 Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação, debugging, testes e documentação, e participo de projetos com **GenAI** para processamento e análise de imagens.
 
@@ -64,7 +64,7 @@ Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação,
 <tr>
 <td align="center"><b>Jun 2026 — Atual</b></td>
 <td align="center">Desenvolvedor Backend</td>
-<td align="center"><b>IEZ Telecom</b> — motor MVNO</td>
+<td align="center"><b>IEZ Telecom</b></td>
 </tr>
 <tr>
 <td align="center"><b>Set 2025 — Jun 2026</b></td>
@@ -81,7 +81,7 @@ Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação,
 
 <br>
 
-- Desenvolvimento e evolução do backend do motor **MVNO** com **Golang** em **Microsserviços e Sistemas Distribuídos**
+- Desenvolvimento e evolução de backend com **Golang** em **Microsserviços e Sistemas Distribuídos**
 - Serviços com **Clean Architecture, Arquitetura Hexagonal, DDD e SOLID** (use cases, entidades, regras de negócio, repositórios e adaptadores)
 - **APIs REST, gRPC, Protobuf, Webhooks**, Envoy e gRPC Transcoding
 - **Keycloak, OAuth 2.0, OpenID Connect e IAM** para autenticação e autorização corporativa
@@ -95,7 +95,7 @@ Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação,
 </details>
 
 <details>
-<summary><b>🔹 Corelab — Desenvolvedor Full Stack</b></summary>
+<summary><b>🔹 Corelab — Desenvolvedor Full Stack (principal experiência)</b></summary>
 
 <br>
 
