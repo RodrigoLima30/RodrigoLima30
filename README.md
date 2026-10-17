@@ -50,10 +50,31 @@ Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação,
 
 # 💼 Experiência
 
-| Período | Cargo | Empresa |
-|---|---|---|
-| **Jun 2026 — Atual** | Desenvolvedor Backend | **IEZ Telecom** — motor MVNO |
-| **Set 2025 — Jun 2026** | Desenvolvedor Full Stack | **Corelab** |
+<div align="center">
+
+<table>
+<thead>
+<tr>
+<th align="center">Período</th>
+<th align="center">Cargo</th>
+<th align="center">Empresa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>Jun 2026 — Atual</b></td>
+<td align="center">Desenvolvedor Backend</td>
+<td align="center"><b>IEZ Telecom</b> — motor MVNO</td>
+</tr>
+<tr>
+<td align="center"><b>Set 2025 — Jun 2026</b></td>
+<td align="center">Desenvolvedor Full Stack</td>
+<td align="center"><b>Corelab</b></td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 <details>
 <summary><b>🔹 IEZ Telecom — Desenvolvedor Backend (atual)</b></summary>
@@ -171,6 +192,7 @@ Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" width="45" title="Podman"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" title="AWS S3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" title="Google Cloud"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub" style="background:#fff;border-radius:8px"/>
@@ -183,7 +205,8 @@ Também utilizo **IA (Claude, Copilot, ChatGPT)** para acelerar implementação,
 
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keycloak/keycloak-original.svg" width="45" title="Keycloak"/>
+<img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" title="Keycloak"/>
+<img src="https://img.shields.io/badge/Identity%20Platform-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" title="Google Cloud Identity Platform"/>
 <br>
 <sub>OAuth 2.0 • OIDC • IAM • JWT</sub>
 <br>
@@ -317,6 +340,22 @@ Repositórios focados em estudos práticos de DDD, Design Patterns, SOLID, Use C
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
+### 👾 Pac-Man & Breakout
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph" />
+  <br>
+  <img src="https://raw.githubusercontent.com/RodrigoLima30/RodrigoLima30/output/breakout-contribution-graph-dark.svg" alt="breakout contribution graph" />
+</div>
+
+---
+
+### 💬 Frase do dia
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="frase dev" />
 </div>
 
 ---
